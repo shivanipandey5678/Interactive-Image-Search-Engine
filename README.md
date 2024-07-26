@@ -1,40 +1,35 @@
-# PixieQuery - Interactive Image Search Engine
 
-PixieQuery is a powerful and interactive image search engine that allows users to explore a vast collection of images effortlessly.
+# Dynamic Image Search App
 
-## Preview
-
-![PixieQuery Preview](preview.png)
+Welcome to the Dynamic Image Search App! 🚀 This web application lets you search for stunning images using the Unsplash API. Simply enter a keyword and explore a gallery of high-quality photos. Click "Show More" to load additional images and continue discovering beautiful visuals.
 
 ## Features
+- **Image Search**: Enter a keyword to find images.
+- **Infinite Scroll**: Click "Show More" to load additional images.
+- **Responsive Design**: Works beautifully on all devices.
 
-- **Dynamic Search**: Instantly search for images by entering keywords in the search box.
-- **Interactive Interface**: Browse through search results with ease and efficiency.
-- **Endless Exploration**: Scroll through a variety of images and discover captivating visuals.
-- **One-Click Viewing**: Open images in a new tab with a single click for detailed viewing.
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **API**: Unsplash
 
-## Usage
+## How to Use
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Search for images and explore!
 
-1. **Clone this repository to your local machine:**
+## Live Demo
+Experience the app in action [here](https://ephemeral-smakager-d474d4.netlify.app/).
 
-    ```bash
-    git clone https://github.com/your-username/pixie-query.git
-    ```
+## Screenshots
+- **Search Page**: 
+  ![Search Page](#)
 
-2. **Navigate to the project directory:**
+## Disclaimer
+Please note that the search feature is designed to find general categories and popular images. For best results, try searching for broad and commonly used terms such as "birds," "house," or "festival." This will help you get a wide variety of high-quality images from the Unsplash API.
 
-    ```bash
-    cd pixie-query
-    ```
+Keep in mind that specific or highly niche queries might yield limited results. If you have any suggestions for improving search results or the overall app, feel free to reach out!
 
-3. **Open `index.html` in your preferred web browser to access PixieQuery.**
+Happy searching! 🕵️‍♂️📸
 
-4. **Enter your search query in the search box and hit "Search" to see relevant images.**
-
-5. **Click on any image to view it in full size and explore further details.**
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or feature requests, feel free to fork this repository, make your changes, and submit a pull request.
-
-.
+## Contact
+Feel free to reach out for any questions or feedback!
